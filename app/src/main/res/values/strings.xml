@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="first_Butn_text">Begginer</string>
+    <string name="second_Butn_text">Intermediate</string>
+    <string name="third_Butn_text">Expert</string>
+    <string name="fourth_Butn_text">Extraordinary</string>
+    <string name="article_buttn">Articles</string>
+    <string name="search_buttn">Search</string>
+    <string name="fav_buttn">Favourites</string>
+</resources>
